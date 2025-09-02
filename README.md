@@ -1,1 +1,1 @@
-# cosmetics-website
+# simple-cosmetics-website
